@@ -1,0 +1,4 @@
+C:\Users\82106\source\repos\Trilateration\Trilateration\obj\Debug\netcoreapp3.1\Trilateration.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\Trilateration\Trilateration\obj\Debug\netcoreapp3.1\Trilateration.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\Trilateration\Trilateration\obj\Debug\netcoreapp3.1\Trilateration.AssemblyInfo.cs
+C:\Users\82106\source\repos\Trilateration\Trilateration\obj\Debug\netcoreapp3.1\Trilateration.csproj.CoreCompileInputs.cache
